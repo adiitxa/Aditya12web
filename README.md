@@ -51,3 +51,11 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,ts,react,nextjs,nodejs,express,ejs,nodemon,jwt,socketio,vite,redux,npm,jquery,bootstrap,tailwind,reactrouter,reacthookform,mongodb,mysql,matplotlib,numpy,pandas,php,git,github,vscode,arduino,docker,postman,vercel,render" />
 </p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,ts,react,nextjs,nodejs,express" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ejs,nodemon,jwt,socketio,vite,redux,npm,jquery,bootstrap,tailwind,reactrouter,reacthookform,mongodb,mysql,php,git,github,vscode,arduino,docker,postman,vercel,render" />
+</p>
+
